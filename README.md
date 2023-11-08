@@ -1,4 +1,4 @@
-![Açıklama](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixoliastudios.com%2Fhello-world-4%2F&psig=AOvVaw3MpKnofkEhBeR7PrdSLZRZ&ust=1699515125137000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPipwanxs4IDFQAAAAAdAAAAABAF)
+![Açıklama](https://pixoliastudios.com/wp-content/uploads/2023/02/hello_world.png)
 
 
 # Merhaba, Ben Metehan  👋
