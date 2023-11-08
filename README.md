@@ -25,6 +25,18 @@
 - 📷 [Instagram](Instagram_profil_linki)
 - 🐦 [Twitter](Twitter_profil_linki)
 
+## İlgi Alanlarım
+- 🎮 Video oyunları: Zaman zaman en sevdiğim oyunlar hakkında düşüncelerimi paylaşıyorum.
+- 📚 Kitap okuma: En son okuduğum kitaplar hakkında tavsiyelerde bulunabilirim.
+- 🎶 Müzik: En sevdiğim şarkıları ve müzik türlerini paylaşmaktan çekinmem.
+
+## Eğlenceli Gerçekler
+- 🚀 Uzay hayranıyım ve gezegenler hakkında meraklıyım. 🪐
+- 🌱 Bitki yetiştirmek ve saksı bahçeciliği hobi olarak yapıyorum.
+- ☕ Kahve tutkunuyum ve kendi özel kahve karışımları hazırlıyorum.
+- 🐶 Sevimli bir köpeğim var, adı Rover. Sık sık onunla maceralara çıkıyoruz.
+
+
 
 
 
