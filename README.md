@@ -25,7 +25,6 @@
 - 📷 [Instagram](Instagram_profil_linki)
 - 🐦 [Twitter](Twitter_profil_linki)
 
-Bu, GitHub README dosyanızın başlangıcı için bir şablon olabilir. Kendi bilgilerinizi ve projelerinizi eklemek için uygun yerlere ilgili bilgileri ekleyebilirsiniz. Ayrıca, projelerinizin bağlantılarını ve diğer sosyal medya hesaplarınızı ekleyerek profili kişiselleştirebilirsiniz. Başarılarınızı ve projelerinizi vurgulamak için daha fazla ayrıntı eklemeyi unutmayın!
 
 
 
