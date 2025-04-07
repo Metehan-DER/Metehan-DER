@@ -85,5 +85,10 @@ Firebase ve Node.js kullanarak geliştirdiğim bazı backend projeleri:
 
 ---
 ![Metehan'ın GitHub Aktivitesi](https://activity-graph.herokuapp.com/graph?username=Metehan-DER&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Metehan-DER&theme=react-dark)
+## 🔥 GitHub Aktivitem
+![Metehan's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Metehan-DER&theme=react-dark)
+
+
 
 
