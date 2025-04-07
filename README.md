@@ -47,15 +47,16 @@ Mobil uygulama geliştirme konusunda tutkulu bir geliştiriciyim. Flutter ve Dar
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 
-
 ## 🔥 Öne Çıkan Projelerim
 
-<a href="https://github.com/Metehan-DER/flutter-esp32-led-controller.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metehan-der&repo=flutter-proje&theme=tokyonight" />
+<a href="https://github.com/Metehan-DER/flutter-esp32-led-controller">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Metehan-DER&repo=flutter-esp32-led-controller&theme=tokyonight" />
 </a>
-<a href="https://github.com/Metehan-DER/Matematik_Game.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metehan-der&repo=firebase-projesi&theme=tokyonight" />
+
+<a href="https://github.com/Metehan-DER/Matematik_Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Metehan-DER&repo=Matematik_Game&theme=tokyonight" />
 </a>
+
 
 ## 📱 Flutter Projeleri
 
