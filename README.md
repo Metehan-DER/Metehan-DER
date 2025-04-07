@@ -32,13 +32,7 @@ Mobil uygulama geliştirme konusunda tutkulu bir geliştiriciyim. Flutter ve Dar
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
-## 📊 GitHub İstatistiklerim
 
-![Metehan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=metehan-der&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehan-der&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=metehan-der&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🔥 Öne Çıkan Projelerim
 
@@ -72,19 +66,16 @@ Firebase ve Node.js kullanarak geliştirdiğim bazı backend projeleri:
 
 ## 🏆 Rozetler ve Sertifikalar
 
-
-
----
-
-### 📝 Son Blog Yazılarım
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ⭐️ ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet)
 ![](https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet&style=for-the-badge)
 
----
+## 📊 GitHub İstatistiklerim
 
+![Metehan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=metehan-der&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehan-der&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=metehan-der&theme=tokyonight)](https://git.io/streak-stats)
 ## 📊 GitHub Aktivite Grafiğim
 
 ![Metehan's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Metehan-DER&theme=react-dark&area=true)
