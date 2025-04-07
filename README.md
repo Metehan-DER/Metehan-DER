@@ -2,10 +2,14 @@
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://metehan-der.github.io/website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/metehander)
-⭐️ ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet)
 
+<!-- Sağ üst köşeye yaslı ve büyük ziyaretçi sayacı -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet&style=flat-square" alt="Ziyaretçi Sayacı" width="160" height="32"/>
+</p>
 
 ## 👨‍💻 Hakkımda
+
 
 Mobil uygulama geliştirme konusunda tutkulu bir geliştiriciyim. Flutter ve Dart ile mobil uygulamalar geliştiriyorum. Backend tarafında ihtiyaca göre Firebase veya Node.js çözümlerini tercih ediyorum. Sürekli öğrenmeye açık bir yazılımcı olarak, Python ve C dillerinde de projeler geliştiriyorum.
 
