@@ -69,7 +69,7 @@ Firebase ve Node.js kullanarak geliştirdiğim bazı backend projeleri:
 
 - 📧 Email: tr.metehander@gmail.com
 - 🌐 Website: [https://metehan-der.github.io/website/](https://metehan-der.github.io/website/)
-- 💼 LinkedIn: [LinkedIn profilinizin bağlantısını ekleyin](https://tr.linkedin.com/in/metehander)
+- 💼 LinkedIn: https://tr.linkedin.com/in/metehander
 
 ## 🏆 Rozetler ve Sertifikalar
 
