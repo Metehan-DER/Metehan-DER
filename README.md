@@ -1,12 +1,14 @@
-# 👋 Merhaba, Ben Metehan              
+# 👋 Merhaba, Ben Metehan           
+
+<!-- Sağ üst köşeye yaslı ve büyük ziyaretçi sayacı -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet&style=for-the-badge" alt="Ziyaretçi Sayacı" width="160" height="32"/>
+</p>
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://metehan-der.github.io/website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/metehander)
 
-<!-- Sağ üst köşeye yaslı ve büyük ziyaretçi sayacı -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet&style=flat-square" alt="Ziyaretçi Sayacı" width="160" height="32"/>
-</p>
+
 
 ## 👨‍💻 Hakkımda
 
