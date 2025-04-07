@@ -72,8 +72,7 @@ Firebase ve Node.js kullanarak geliştirdiğim bazı backend projeleri:
 
 ## 🏆 Rozetler ve Sertifikalar
 
-- [Flutter ile ilgili sertifikalarınızı ekleyebilirsiniz]
-- [Firebase ile ilgili sertifikalarınızı ekleyebilirsiniz]
+
 
 ---
 
@@ -81,12 +80,10 @@ Firebase ve Node.js kullanarak geliştirdiğim bazı backend projeleri:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-⭐️ [Ziyaretçi sayınızı göstermek için](https://visitor-badge.glitch.me/badge?page_id=Metehan-DER.Metehan-DER)
-![Visitor Count](https://profile-counter.glitch.me/Metehan-DER/count.svg)
-![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet)
-<!-- Seçenek 4: Minimalist animated sayaç -->
-<p align="center"> 
-  Profil Ziyaretçileri<br>
-  <img src="https://profile-counter.glitch.me/metehan-der/count.svg" />
-</p>
+⭐️ ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet&style=for-the-badge)
+
+---
+![Metehan'ın GitHub Aktivitesi](https://activity-graph.herokuapp.com/graph?username=metehan-der&theme=react-dark)
+
 
