@@ -53,7 +53,7 @@ Mobil uygulama geliştirme konusunda tutkulu bir geliştiriciyim. Flutter ve Dar
 <a href="https://github.com/Metehan-DER/flutter-esp32-led-controller.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metehan-der&repo=flutter-proje&theme=tokyonight" />
 </a>
-<a href="https://github.com/Metehan-DER/flutter-esp32-led-controller.git">
+<a href="https://github.com/Metehan-DER/Matematik_Game.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metehan-der&repo=firebase-projesi&theme=tokyonight" />
 </a>
 
