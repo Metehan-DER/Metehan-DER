@@ -84,8 +84,7 @@ Firebase ve Node.js kullanarak geliştirdiğim bazı backend projeleri:
 ![](https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet&style=for-the-badge)
 
 ---
-![Metehan'ın GitHub Aktivitesi](https://activity-graph.herokuapp.com/graph?username=Metehan-DER&theme=react-dark)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Metehan-DER&theme=react-dark)
+
 ## 📊 GitHub Aktivite Grafiğim
 
 ![Metehan's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Metehan-DER&theme=react-dark&area=true)
