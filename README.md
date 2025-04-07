@@ -1,14 +1,20 @@
-# 👋 Merhaba, Ben Metehan           
+# 👋 Merhaba, Ben Metehan
 
-<!-- Sağ üst köşeye yaslı ve büyük ziyaretçi sayacı -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet&style=for-the-badge" alt="Ziyaretçi Sayacı" width="160" height="32"/>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Ziyaretçi Sayacı" style="border-radius: 10px;"/>
+</div>
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://metehan-der.github.io/website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/metehander)
-
-
+<div align="center">
+  <a href="https://metehan-der.github.io/website/">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Website" style="border-radius: 8px;"/>
+  </a>
+  <a href="https://tr.linkedin.com/in/metehander">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px;"/>
+  </a>
+  <a href="mailto:tr.metehander@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 8px;"/>
+  </a>
+</div>
 
 ## 👨‍💻 Hakkımda
 
