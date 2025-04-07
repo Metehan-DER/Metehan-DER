@@ -1,8 +1,7 @@
-# 👋 Merhaba, Ben Metehan              ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet)
+# 👋 Merhaba, Ben Metehan              
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://metehan-der.github.io/website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LinkedIn_URL_BURADA)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Twitter_URL_BURADA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/metehander)
 
 ## 👨‍💻 Hakkımda
 
@@ -85,4 +84,9 @@ Firebase ve Node.js kullanarak geliştirdiğim bazı backend projeleri:
 ⭐️ [Ziyaretçi sayınızı göstermek için](https://visitor-badge.glitch.me/badge?page_id=Metehan-DER.Metehan-DER)
 ![Visitor Count](https://profile-counter.glitch.me/Metehan-DER/count.svg)
 ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet)
+<!-- Seçenek 4: Minimalist animated sayaç -->
+<p align="center"> 
+  Profil Ziyaretçileri<br>
+  <img src="https://profile-counter.glitch.me/metehan-der/count.svg" />
+</p>
 
