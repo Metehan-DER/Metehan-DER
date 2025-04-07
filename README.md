@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://metehan-der.github.io/website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/metehander)
+⭐️ ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet)
+
 
 ## 👨‍💻 Hakkımda
 
@@ -63,11 +65,6 @@ Firebase ve Node.js kullanarak geliştirdiğim bazı backend projeleri:
 - 📧 Email: tr.metehander@gmail.com
 - 🌐 Website: [https://metehan-der.github.io/website/](https://metehan-der.github.io/website/)
 - 💼 LinkedIn: https://tr.linkedin.com/in/metehander
-
-## 🏆 Rozetler ve Sertifikalar
-
-⭐️ ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet)
-![](https://komarev.com/ghpvc/?username=metehan-der&color=blueviolet&style=for-the-badge)
 
 ## 📊 GitHub İstatistiklerim
 
