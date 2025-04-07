@@ -6,54 +6,75 @@
 
 ## 👨‍💻 Hakkımda
 
-Yazılım geliştirme tutkusuyla dolu bir geliştiriciyim. [Burada kısaca kendinizi tanıtabilirsiniz - eğitim durumunuz, uzmanlık alanlarınız, ilgi alanlarınız vb.]
+Mobil uygulama geliştirme konusunda tutkulu bir geliştiriciyim. Flutter ve Dart ile mobil uygulamalar geliştiriyorum. Backend tarafında ihtiyaca göre Firebase veya Node.js çözümlerini tercih ediyorum. Sürekli öğrenmeye açık bir yazılımcı olarak, Python ve C dillerinde de projeler geliştiriyorum.
 
 ## 🚀 Yeteneklerim
 
-### Programlama Dilleri
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### Mobil Geliştirme
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-### Frameworks & Kütüphaneler
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Backend & Veritabanı
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Diğer Programlama Dilleri
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Araçlar & Teknolojiler
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 ## 📊 GitHub İstatistiklerim
 
-![Metehan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=metehan-der&show_icons=true&theme=radical)
+![Metehan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=metehan-der&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehan-der&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehan-der&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=metehan-der&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=metehan-der&theme=tokyonight)](https://git.io/streak-stats)
 
-## 🌟 Öne Çıkan Projelerim
+## 🔥 Öne Çıkan Projelerim
 
-<a href="https://github.com/metehan-der/proje-adi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metehan-der&repo=proje-adi&theme=radical" />
+<a href="https://github.com/metehan-der/flutter-proje">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metehan-der&repo=flutter-proje&theme=tokyonight" />
 </a>
-<a href="https://github.com/metehan-der/baska-proje">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metehan-der&repo=baska-proje&theme=radical" />
+<a href="https://github.com/metehan-der/firebase-projesi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metehan-der&repo=firebase-projesi&theme=tokyonight" />
 </a>
+
+## 📱 Flutter Projeleri
+
+Flutter ve Dart kullanarak geliştirdiğim bazı projeler:
+
+- **[Proje Adı]**: [Kısa açıklama]
+- **[Proje Adı]**: [Kısa açıklama]
+- **[Proje Adı]**: [Kısa açıklama]
+
+## 💻 Backend Projeleri
+
+Firebase ve Node.js kullanarak geliştirdiğim bazı backend projeleri:
+
+- **[Proje Adı]**: [Kısa açıklama]
+- **[Proje Adı]**: [Kısa açıklama]
 
 ## 📫 İletişim
 
-- 📧 Email: [email adresinizi ekleyin]
+- 📧 Email: [tr.metehander@gmail.com]
 - 🌐 Website: [https://metehan-der.github.io/website/](https://metehan-der.github.io/website/)
-- 💼 LinkedIn: [LinkedIn profilinizin bağlantısını ekleyin]
+- 💼 LinkedIn: [[LinkedIn profilinizin bağlantısını ekleyin](https://tr.linkedin.com/in/metehander)]
 
 ## 🏆 Rozetler ve Sertifikalar
 
-- [Sahip olduğunuz önemli sertifikaları veya rozetleri buraya ekleyebilirsiniz]
+- [Flutter ile ilgili sertifikalarınızı ekleyebilirsiniz]
+- [Firebase ile ilgili sertifikalarınızı ekleyebilirsiniz]
 
 ---
 
