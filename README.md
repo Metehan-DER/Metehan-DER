@@ -83,3 +83,5 @@ Firebase ve Node.js kullanarak geliştirdiğim bazı backend projeleri:
 <!-- BLOG-POST-LIST:END -->
 
 ⭐️ [Ziyaretçi sayınızı göstermek için](https://visitor-badge.glitch.me/badge?page_id=metehan-der.metehan-der)
+![Visitor Count](https://profile-counter.glitch.me/Metehan-DER/count.svg)
+
