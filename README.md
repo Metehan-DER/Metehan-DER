@@ -17,7 +17,7 @@ Wireframe'den mağaza yayınına, tek bir ürün ekosistemi mantığıyla uçtan
 
 ### 👋 Merhaba
 
-Çeliker Teknoloji'de Software Team Lead olarak mobil ekibe liderlik ediyor, wireframe'den Play Store yayınına kadar uçtan uca ürün geliştiriyorum. IoT tabanlı uygulamalar (Bluetooth/Wi-Fi haberleşme, offline çalışma) ve admin/bayi panelleri konusunda derinleşmiş durumdayım. Kişisel zamanımda oyun tasarımı ve deprem takip gibi kendi problemlerimi çözen ürünler geliştiriyorum.
+Çeliker Teknoloji'de Software Team Lead olarak mobil ekibe liderlik ediyor, wireframe'den mağaza yayınına kadar uçtan uca ürün geliştiriyorum. IoT tabanlı uygulamalar (Bluetooth/Wi-Fi haberleşme, offline çalışma) ve admin/bayi panelleri konusunda derinleşmiş durumdayım. Kişisel zamanımda oyun tasarımı ve deprem takip gibi kendi problemlerimi çözen ürünler geliştiriyorum.
 
 - 🔭 Şu an: **Moto Signal** ekosistemi (mobil + admin panel + web) üzerinde çalışıyorum
 - 🎓 Necmettin Erbakan Üniversitesi — Bilgisayar Mühendisliği (Eylül 2026 mezuniyet)
@@ -52,7 +52,7 @@ Wireframe'den mağaza yayınına, tek bir ürün ekosistemi mantığıyla uçtan
 
 ### 💼 Çeliker Teknoloji'de Geliştirdiğim Ürünler
 
-**Moto Signal** — Motosiklet kullanıcılarına yönelik mobil uygulama; admin panel ve tanıtım siteşiyle birlikte tek ekosistem olarak, UI tasarımından yayına kadar uçtan uca geliştirdim.
+**Moto Signal** — Motosiklet kullanıcılarına yönelik mobil uygulama; admin panel ve tanıtım sitesiyle birlikte tek ekosistem olarak, UI tasarımından yayına kadar uçtan uca geliştirdim.
 
 **Akıllı Fırın (IoT)** — Bluetooth/Wi-Fi üzerinden cihazla haberleşen, internet olmadan da çalışabilen bir kontrol uygulaması; bağlantı yönetimi ve cihaz durumu takibi en zorlu kısımdı.
 
@@ -100,6 +100,30 @@ Her birinde wireframe'den yayına kadar tüm süreç (UI/UX, geliştirme, Fireba
 <a href="https://github.com/Metehan-DER/Matematik_Game">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Metehan-DER&repo=Matematik_Game&theme=tokyonight" />
 </a>
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://metehan-der.github.io/website/#projects">
+  <img src="assets/projects/agesnap-cover.jpg" alt="AgeSnap" width="40%" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://metehan-der.github.io/website/#projects">
+  <img src="assets/projects/luminote-cover.jpg" alt="LumiNote" width="40%" />
+</a>
+
+<br><br><br>
+
+<a href="https://metehan-der.github.io/website/#projects">
+  <img src="assets/projects/aethelgard.jpeg" alt="Aethelgard" width="40%" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Metehan-DER/arinma-odasi">
+  <img src="assets/projects/arinma-odasi.png" alt="Arınma Odası" width="56%" />
+</a>
+
 </div>
 
 ---
