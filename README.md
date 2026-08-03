@@ -17,10 +17,14 @@ Wireframe'den mağaza yayınına, tek bir ürün ekosistemi mantığıyla uçtan
 
 ### 👋 Merhaba
 
-Çeliker Teknoloji'de Software Team Lead olarak mobil ekibe liderlik ediyor, wireframe'den mağaza yayınına kadar uçtan uca ürün geliştiriyorum. IoT tabanlı uygulamalar (Bluetooth/Wi-Fi haberleşme, offline çalışma) ve admin/bayi panelleri konusunda derinleşmiş durumdayım. Kişisel zamanımda oyun tasarımı ve deprem takip gibi kendi problemlerimi çözen ürünler geliştiriyorum.
+Mobil, web ve masaüstü uygulamaları geliştiren bir yazılım mühendisiyim. Flutter başta olmak üzere modern teknolojilerle uçtan uca ürün geliştirmeyi seviyorum. Fikir aşamasından tasarım, geliştirme, test ve yayına alma süreçlerine kadar projelerin tamamında aktif rol alıyorum.
+
+Özellikle Bluetooth (BLE), Wi-Fi haberleşmesi, IoT çözümleri, REST API entegrasyonları ve offline çalışan uygulamalar üzerine çalışıyorum. Bunun yanında yönetim panelleri, bayi sistemleri ve kullanıcı deneyimi odaklı ürünler geliştirmekten keyif alıyorum.
+
+Boş zamanlarımda oyun geliştirme, yapay zekâ ve kişisel problemleri çözen yazılım projeleri üzerinde çalışıyorum. Sürekli öğrenmeye önem veriyor, yeni teknolojileri deneyerek hem teknik hem de ürün geliştirme bakış açımı ilerletmeye çalışıyorum.
 
 - 🔭 Şu an: **Moto Signal** ekosistemi (mobil + admin panel + web) üzerinde çalışıyorum
-- 🎓 Necmettin Erbakan Üniversitesi — Bilgisayar Mühendisliği (Eylül 2026 mezuniyet)
+- 🎓 Necmettin Erbakan Üniversitesi — Bilgisayar Mühendisliği
 - 📱 Play Store'da 1 yayında, 2 kapalı test, 3 geliştirme aşamasında kişisel uygulama
 
 ---
