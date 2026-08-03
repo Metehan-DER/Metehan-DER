@@ -17,11 +17,15 @@ End-to-end mobile development, from wireframe to store release, as a single prod
 
 ### 👋 About Me
 
-I lead the mobile team as Software Team Lead at Çeliker Teknoloji, building products end-to-end from wireframe to Play Store release. I've gone deep on IoT-connected apps (Bluetooth/Wi-Fi communication, offline-capable flows) and admin/dealer panels. In my own time I build things that scratch my own itch — game design and earthquake tracking among them.
+I’m a software engineer focused on building mobile, web, and desktop products end-to-end, from early wireframes and architecture decisions to testing and production release.
 
-- 🔭 Currently working on: the **Moto Signal** ecosystem (mobile + admin panel + web)
-- 🎓 Necmettin Erbakan University — Computer Engineering (expected graduation Sept 2026)
-- 📱 1 personal app live on Play Store, 2 in closed testing, 3 in development
+My experience is centered around Flutter, IoT-connected applications, Bluetooth and Wi-Fi communication, offline-capable workflows, REST API integrations, and admin/dealer management panels. I enjoy taking ownership of the full product lifecycle and turning real-world problems into practical, maintainable software.
+
+In my own time, I build products that solve problems I personally care about, including game projects, productivity tools, and earthquake tracking applications.
+
+🔭 Currently working on the Moto Signal ecosystem, including mobile, web, and admin panel applications
+🎓 Computer Engineering student at Necmettin Erbakan University
+📱 1 personal application published on Google Play, 2 in closed testing, and 3 currently in development
 
 ---
 
